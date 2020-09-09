@@ -8,7 +8,7 @@ body{
     text-align: center;
   }
   h2{
-    font-size: 32px;
+    font-size: 30px;
     text-shadow:  5px 5px 2px #808080;
   }
   p{
@@ -47,7 +47,7 @@ body{
     background-color: #008000;
     text-align: left;
   }
-  footer p {
+  footer p{
     text-align: right;
     padding-bottom: 10px;
     padding-right: 10px;
